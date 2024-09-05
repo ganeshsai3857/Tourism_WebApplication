@@ -54,11 +54,7 @@ A ***Tourism Web Application for People with Disabilities*** using **ReactJS** a
    - Integrate with popular travel and booking APIs (e.g., Booking.com, Google Places API) to pull real-time data on accessible accommodations and activities.
    - Use geolocation services to show nearby accessible facilities like hotels, restaurants, or medical services.
 
-5. **Hosting and Deployment**
-   - Deploy the frontend on services like **Netlify** or **Vercel**, and the backend on **Heroku** or **AWS** for scalability.
-   - CI/CD pipelines for continuous integration and delivery.
-
-6. **Security and Privacy**
+5. **Security and Privacy**
    - Implementation of secure authentication and user privacy controls, ensuring personal and travel data is protected.
    - Compliance with GDPR or other relevant data protection regulations.
 
